@@ -13,9 +13,9 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "E:\\unity\\Patrones-AbstractFactory\\Patrones-AbstractFactory\\Patrones-AbstractFactory.csproj",
-      "projectName": "Patrones-AbstractFactory",
-      "projectPath": "E:\\unity\\Patrones-AbstractFactory\\Patrones-AbstractFactory\\Patrones-AbstractFactory.csproj",
+      "projectUniqueName": "E:\\unity\\Patrones-AbstractFactory\\Patrones-AbstractFactory\\Patrones-Factory.csproj",
+      "projectName": "Patrones-Factory",
+      "projectPath": "E:\\unity\\Patrones-AbstractFactory\\Patrones-AbstractFactory\\Patrones-Factory.csproj",
       "packagesPath": "C:\\Users\\Corvo\\.nuget\\packages\\",
       "outputPath": "E:\\unity\\Patrones-AbstractFactory\\Patrones-AbstractFactory\\obj\\",
       "projectStyle": "PackageReference",

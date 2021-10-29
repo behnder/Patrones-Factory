@@ -2,19 +2,29 @@
 using System.Collections.Generic;
 using System.Text;
 
-namespace Patrones_AbstractFactory
+namespace Patrones_Factory
 {
-    class CanonRafaga : Arma
+    class CanonRafaga : IArma
     {
+        public string Nombre { get; private set; }
+        public string Categoria { get; private set; }
+
+        public CanonRafaga()
+        {
+            Nombre = "Arma de rafagas";
+            Categoria = "Media";
+        }
 
         public void Descripcion()
         {
-            throw new NotImplementedException();
+            Console.Write($"nombre: {Nombre}\n Categoria: {Categoria}\n Disparo!: ");
+            TipoDisparo();
         }
 
         public void TipoDisparo()
         {
-            throw new NotImplementedException();
+            Console.WriteLine("disparando una rafaga de balas");
         }
+
     }
 }

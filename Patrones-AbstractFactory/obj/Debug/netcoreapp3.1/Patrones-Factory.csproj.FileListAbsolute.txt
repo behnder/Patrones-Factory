@@ -1,0 +1,14 @@
+E:\unity\Patrones-AbstractFactory\Patrones-AbstractFactory\obj\Debug\netcoreapp3.1\Patrones-Factory.csproj.AssemblyReference.cache
+E:\unity\Patrones-AbstractFactory\Patrones-AbstractFactory\obj\Debug\netcoreapp3.1\Patrones-Factory.GeneratedMSBuildEditorConfig.editorconfig
+E:\unity\Patrones-AbstractFactory\Patrones-AbstractFactory\obj\Debug\netcoreapp3.1\Patrones-Factory.AssemblyInfoInputs.cache
+E:\unity\Patrones-AbstractFactory\Patrones-AbstractFactory\obj\Debug\netcoreapp3.1\Patrones-Factory.AssemblyInfo.cs
+E:\unity\Patrones-AbstractFactory\Patrones-AbstractFactory\obj\Debug\netcoreapp3.1\Patrones-Factory.csproj.CoreCompileInputs.cache
+E:\unity\Patrones-AbstractFactory\Patrones-AbstractFactory\bin\Debug\netcoreapp3.1\Patrones-Factory.exe
+E:\unity\Patrones-AbstractFactory\Patrones-AbstractFactory\bin\Debug\netcoreapp3.1\Patrones-Factory.deps.json
+E:\unity\Patrones-AbstractFactory\Patrones-AbstractFactory\bin\Debug\netcoreapp3.1\Patrones-Factory.runtimeconfig.json
+E:\unity\Patrones-AbstractFactory\Patrones-AbstractFactory\bin\Debug\netcoreapp3.1\Patrones-Factory.runtimeconfig.dev.json
+E:\unity\Patrones-AbstractFactory\Patrones-AbstractFactory\bin\Debug\netcoreapp3.1\Patrones-Factory.dll
+E:\unity\Patrones-AbstractFactory\Patrones-AbstractFactory\bin\Debug\netcoreapp3.1\Patrones-Factory.pdb
+E:\unity\Patrones-AbstractFactory\Patrones-AbstractFactory\obj\Debug\netcoreapp3.1\Patrones-Factory.dll
+E:\unity\Patrones-AbstractFactory\Patrones-AbstractFactory\obj\Debug\netcoreapp3.1\Patrones-Factory.pdb
+E:\unity\Patrones-AbstractFactory\Patrones-AbstractFactory\obj\Debug\netcoreapp3.1\Patrones-Factory.genruntimeconfig.cache

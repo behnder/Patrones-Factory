@@ -2,28 +2,28 @@
 using System.Collections.Generic;
 using System.Text;
 
-namespace Patrones_AbstractFactory
+namespace Patrones_Factory
 {
-    abstract class Arma
+    class CanonTriple: IArma
     {
-
         public string Nombre { get; private set; }
         public string Categoria { get; private set; }
 
-        protected Arma(string nombre, string categoria)
+        public CanonTriple()
         {
-            Nombre = nombre;
-            Categoria = categoria;
+            Nombre = "Arma de cañon triple";
+            Categoria = "Grande";
         }
 
-        public  void Descripcion()
+        public void Descripcion()
         {
             Console.Write($"nombre: {Nombre}\n Categoria: {Categoria}\n Disparo!: ");
             TipoDisparo();
         }
-        public virtual void TipoDisparo()
-        {
 
+        public void TipoDisparo()
+        {
+            Console.WriteLine("disparando 3 balas a la vez");
         }
     }
 }

@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "V0dwHfo0rYYAf1DKoKtZBGfYKoSgzjZ3GqGemVHgZTn1jxEbHiT0ZUmcXphEuXFp+3RaFgMa1An1UC0UGNDkyw==",
+  "dgSpecHash": "NeppOcpoi/q0W0nSEq/LCDq//rsDsa/rLxPYWYZ4JZjK/M3YzyTdLTM7F2vRvbNqZW23ZYh2yBrLob/1IiX2XA==",
   "success": true,
-  "projectFilePath": "E:\\unity\\Patrones-AbstractFactory\\Patrones-AbstractFactory\\Patrones-Factory.csproj",
+  "projectFilePath": "E:\\unity\\Patrones-Factory\\Patrones-Factory\\Patrones-Factory.csproj",
   "expectedPackageFiles": [],
   "logs": []
 }

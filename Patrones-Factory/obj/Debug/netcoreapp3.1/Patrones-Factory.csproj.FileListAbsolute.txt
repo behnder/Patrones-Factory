@@ -12,3 +12,17 @@ E:\unity\Patrones-AbstractFactory\Patrones-AbstractFactory\bin\Debug\netcoreapp3
 E:\unity\Patrones-AbstractFactory\Patrones-AbstractFactory\obj\Debug\netcoreapp3.1\Patrones-Factory.dll
 E:\unity\Patrones-AbstractFactory\Patrones-AbstractFactory\obj\Debug\netcoreapp3.1\Patrones-Factory.pdb
 E:\unity\Patrones-AbstractFactory\Patrones-AbstractFactory\obj\Debug\netcoreapp3.1\Patrones-Factory.genruntimeconfig.cache
+E:\unity\quark\Patrones\Patrones-Factory\Patrones-Factory\bin\Debug\netcoreapp3.1\Patrones-Factory.exe
+E:\unity\quark\Patrones\Patrones-Factory\Patrones-Factory\bin\Debug\netcoreapp3.1\Patrones-Factory.deps.json
+E:\unity\quark\Patrones\Patrones-Factory\Patrones-Factory\bin\Debug\netcoreapp3.1\Patrones-Factory.runtimeconfig.json
+E:\unity\quark\Patrones\Patrones-Factory\Patrones-Factory\bin\Debug\netcoreapp3.1\Patrones-Factory.runtimeconfig.dev.json
+E:\unity\quark\Patrones\Patrones-Factory\Patrones-Factory\bin\Debug\netcoreapp3.1\Patrones-Factory.dll
+E:\unity\quark\Patrones\Patrones-Factory\Patrones-Factory\bin\Debug\netcoreapp3.1\Patrones-Factory.pdb
+E:\unity\quark\Patrones\Patrones-Factory\Patrones-Factory\obj\Debug\netcoreapp3.1\Patrones-Factory.csproj.AssemblyReference.cache
+E:\unity\quark\Patrones\Patrones-Factory\Patrones-Factory\obj\Debug\netcoreapp3.1\Patrones-Factory.GeneratedMSBuildEditorConfig.editorconfig
+E:\unity\quark\Patrones\Patrones-Factory\Patrones-Factory\obj\Debug\netcoreapp3.1\Patrones-Factory.AssemblyInfoInputs.cache
+E:\unity\quark\Patrones\Patrones-Factory\Patrones-Factory\obj\Debug\netcoreapp3.1\Patrones-Factory.AssemblyInfo.cs
+E:\unity\quark\Patrones\Patrones-Factory\Patrones-Factory\obj\Debug\netcoreapp3.1\Patrones-Factory.csproj.CoreCompileInputs.cache
+E:\unity\quark\Patrones\Patrones-Factory\Patrones-Factory\obj\Debug\netcoreapp3.1\Patrones-Factory.dll
+E:\unity\quark\Patrones\Patrones-Factory\Patrones-Factory\obj\Debug\netcoreapp3.1\Patrones-Factory.pdb
+E:\unity\quark\Patrones\Patrones-Factory\Patrones-Factory\obj\Debug\netcoreapp3.1\Patrones-Factory.genruntimeconfig.cache

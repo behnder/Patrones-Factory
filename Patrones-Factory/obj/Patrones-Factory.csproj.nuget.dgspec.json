@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "E:\\unity\\Patrones-Factory\\Patrones-Factory\\Patrones-Factory.csproj": {}
+    "E:\\unity\\quark\\Patrones\\Patrones-Factory\\Patrones-Factory\\Patrones-Factory.csproj": {}
   },
   "projects": {
-    "E:\\unity\\Patrones-Factory\\Patrones-Factory\\Patrones-Factory.csproj": {
+    "E:\\unity\\quark\\Patrones\\Patrones-Factory\\Patrones-Factory\\Patrones-Factory.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "E:\\unity\\Patrones-Factory\\Patrones-Factory\\Patrones-Factory.csproj",
+        "projectUniqueName": "E:\\unity\\quark\\Patrones\\Patrones-Factory\\Patrones-Factory\\Patrones-Factory.csproj",
         "projectName": "Patrones-Factory",
-        "projectPath": "E:\\unity\\Patrones-Factory\\Patrones-Factory\\Patrones-Factory.csproj",
+        "projectPath": "E:\\unity\\quark\\Patrones\\Patrones-Factory\\Patrones-Factory\\Patrones-Factory.csproj",
         "packagesPath": "C:\\Users\\Corvo\\.nuget\\packages\\",
-        "outputPath": "E:\\unity\\Patrones-Factory\\Patrones-Factory\\obj\\",
+        "outputPath": "E:\\unity\\quark\\Patrones\\Patrones-Factory\\Patrones-Factory\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\Corvo\\AppData\\Roaming\\NuGet\\NuGet.Config",
